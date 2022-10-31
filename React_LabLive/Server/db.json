@@ -163,167 +163,27 @@
     },
     {
       "payeeName": "Rahul",
-      "product": "NewsPaper",
-      "price": 200,
-      "setDate": "2022-10-31",
+      "product": "grocery",
+      "price": 0,
+      "setDate": "2022-10-11",
+      "errorMsg": "Date is not valid, please enter a valid date",
       "id": 24
     },
     {
-      "payeeName": "Rahul",
-      "product": "918982nsks",
-      "price": -6,
-      "setDate": "2022-10-24",
+      "payeeName": "Ramesh",
+      "product": "Car",
+      "price": 0,
+      "setDate": "2023-10-26",
+      "errorMsg": "Date is not valid, please enter a valid date",
       "id": 25
     },
     {
       "payeeName": "Rahul",
-      "product": "323",
-      "price": 3,
-      "setDate": "2022-10-12",
+      "product": "Rent",
+      "price": 11900,
+      "setDate": "2022-10-31",
+      "errorMsg": "",
       "id": 26
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "tt",
-      "price": 0,
-      "setDate": "0199-03-03",
-      "id": 27
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "ff",
-      "price": 1,
-      "setDate": "0001-03-03",
-      "errorMsg": "Amount not valid, please enter between >0",
-      "id": 28
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "v",
-      "price": 1,
-      "setDate": "0003-03-31",
-      "errorMsg": "",
-      "id": 29
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "fff",
-      "price": 67,
-      "setDate": "0003-03-31",
-      "errorMsg": "Amount/Price not valid, please enter an amount > 0.",
-      "id": 30
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "ds",
-      "price": 2,
-      "setDate": "2022-10-30",
-      "errorMsg": "Date is not valid, please enter a valid date.",
-      "id": 31
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "v",
-      "price": 1,
-      "setDate": "2022-10-30",
-      "errorMsg": "Date is not valid, please enter a valid date.",
-      "id": 32
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "ff",
-      "price": 1,
-      "setDate": "2021-09-29",
-      "errorMsg": "Date is not valid, please enter a valid date",
-      "id": 33
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "ds",
-      "price": 0,
-      "setDate": "2022-09-28",
-      "errorMsg": "Date is not valid, please enter a valid date",
-      "id": 34
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "new",
-      "price": 1,
-      "setDate": "2022-07-03",
-      "errorMsg": "Date is not valid, please enter a valid date",
-      "id": 35
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "d",
-      "price": 1,
-      "setDate": "2022-09-08",
-      "errorMsg": "Date is not valid, please enter a valid date",
-      "id": 36
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "dd",
-      "price": 2,
-      "setDate": "32022-10-03",
-      "errorMsg": "Date is not valid, please enter a valid date",
-      "id": 37
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "tv",
-      "price": 9000,
-      "setDate": "2022-10-03",
-      "errorMsg": "Date is not valid, please enter a valid date",
-      "id": 38
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "d",
-      "price": 0,
-      "setDate": "2022-10-30",
-      "errorMsg": "",
-      "id": 39
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "df",
-      "price": 2,
-      "setDate": "2023-09-30",
-      "errorMsg": "",
-      "id": 40
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "ds",
-      "price": 2,
-      "setDate": "2023-10-31",
-      "errorMsg": "",
-      "id": 41
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "ds",
-      "price": 1,
-      "setDate": "2023-03-03",
-      "errorMsg": "Date is not valid, please enter a valid date",
-      "id": 42
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "fd",
-      "price": 0,
-      "setDate": "2022-10-30",
-      "errorMsg": "",
-      "id": 43
-    },
-    {
-      "payeeName": "Rahul",
-      "product": "ds",
-      "price": 0,
-      "setDate": "2022-10-24",
-      "errorMsg": "",
-      "id": 44
     }
   ]
 }
